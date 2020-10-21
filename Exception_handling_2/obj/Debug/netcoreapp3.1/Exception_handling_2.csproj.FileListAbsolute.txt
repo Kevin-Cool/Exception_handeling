@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.exe
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.deps.json
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.runtimeconfig.json
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.dll
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\bin\Debug\netcoreapp3.1\Exception_handling_2.pdb
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.dll
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.pdb
+C:\Users\kevin\source\repos\Exception handling\Exception_handling_2\obj\Debug\netcoreapp3.1\Exception_handling_2.genruntimeconfig.cache
